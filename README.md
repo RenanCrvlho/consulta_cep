@@ -4,8 +4,8 @@
 <br></br>
 
 <div align="center">
-  <img src="imagens/coiote_procurando.gif" alt="Coiote com o binóculo">
-  <img src="imagens/travolta_procurando.gif" alt="John Travolta confuso">
+  <img src="imagens/coiote_procurando.gif" alt="Coiote com o binóculo" width="200">
+  <img src="imagens/travolta_procurando.gif" alt="John Travolta confuso" width="200">
 </div>
 <br></br>
 
